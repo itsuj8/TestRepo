@@ -228,8 +228,5 @@ offset_bottom = 1553.0
 text = "falling somthig from top "
 label_settings = SubResource("LabelSettings_qm8pc")
 
-[node name="PauseMenu" parent="." index="9"]
-visible = false
-
 [node name="TextureRect" parent="background" index="0"]
 metadata/_edit_lock_ = true

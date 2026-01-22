@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Ninja"
-run/main_scene="uid://b0ssovbr6dgee"
+run/main_scene="uid://b7pv6dl6x1nm8"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
 

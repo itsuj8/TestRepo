@@ -11,9 +11,13 @@ config_version=5
 [application]
 
 config/name="Ninja"
-run/main_scene="uid://domve4d3nyy10"
+run/main_scene="uid://b0ssovbr6dgee"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
+
+[editor]
+
+run/main_run_args="--rendering-driver opengl3"
 
 [global_group]
 
